@@ -1,4 +1,4 @@
-* Taller Bootstrap *
+| Taller Bootstrap |
 
 Creación de un landing page con Boostrap que nos permite crear diseños responsivos agregando clases y sin escribir css.
 Conceptos claves de esta librería/framework:
